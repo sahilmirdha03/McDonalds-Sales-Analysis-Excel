@@ -1,2 +1,11 @@
 # McDonalds-Sales-Analysis-Excel
-McDonald’s Sales Analysis using Excel, Power Query, Power Pivot, Pivot Tables and interactive dashboards.
+
+-Project overview
+-Objective
+-Dataset
+-Tools used
+-Analysis performed
+-Dashboard preview
+-Key insights
+-Project structure
+-Skills demonstrated
